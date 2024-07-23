@@ -13,7 +13,6 @@ const Category = () => {
         <ExploreSection/>
         <PlaceSection/>
         <FooterSection/>
-     
     </div>
   )
 }
