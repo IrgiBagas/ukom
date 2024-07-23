@@ -12,6 +12,7 @@ const Category = () => {
         <HeroSection/>
         <ExploreSection/>
         <PlaceSection/>
+        <FooterSection/>
      
     </div>
   )
